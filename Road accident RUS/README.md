@@ -57,6 +57,5 @@
 
 ## Стек
 *Python*  
-*pandas*
-
+*pandas*  
 *Datalens*
